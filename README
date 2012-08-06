@@ -1,0 +1,7 @@
+This is my GVim configuration.
+
+You can put the "_vimrc" file in your user directory.
+
+For example, 
+    in win7 system, put the file in the "C:\Users\yourname";
+    in Linux system, rename the file to ".vimrc", put the file in the "~/.vimrc"
