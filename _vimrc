@@ -159,7 +159,7 @@ else
 endif
 
 " 设定GVIM默认目录
-lcd D:\Work
+" lcd D:\Work
 
 " 自动切换工作目录，以当前打开的文件所在目录为准
 set autochdir
